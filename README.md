@@ -6,7 +6,7 @@ Les fonctionnlités pourront donc être développées en parallèle par les memb
 - presentation
 - data
 - service
-- repositoery
+- repository
 - constraint
 
 
